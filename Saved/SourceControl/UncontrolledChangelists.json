@@ -5,18 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/UE5/Gam303/Content/TestEnvironment.umap",
+				"C:/UE5/GAM303/Content/TestEnvironment.umap",
 				"C:/UE5/Gam303/Content/Input/Input_Movement.uasset",
 				"C:/UE5/Gam303/Content/Input/Input_Look.uasset",
 				"C:/UE5/Gam303/Content/Input/Input_Interact.uasset",
 				"C:/UE5/Gam303/Content/Input/Jump.uasset",
 				"C:/UE5/Gam303/Content/Input/Mapping_Player.uasset",
-				"C:/UE5/Gam303/Content/Player/BP_Player.uasset",
 				"C:/UE5/Gam303/Content/Player/BP_PlayerCont.uasset",
 				"C:/UE5/Gam303/Content/Player/BP_PlayerChar.uasset",
 				"C:/UE5/Gam303/Content/Interfaces/Interface_Interact.uasset",
-				"C:/UE5/Gam303/Content/Interactibles/Interact.uasset",
-				"C:/UE5/Gam303/Content/Player/BP_GameMode.uasset"
+				"C:/UE5/GAM303/Content/Interactibles/Interact.uasset",
+				"C:/UE5/Gam303/Content/Player/BP_GameMode.uasset",
+				"C:/UE5/GAM303/Content/Interactibles/AnimatedInteractibles/BP_Door.uasset",
+				"C:/UE5/Gam303/Content/Player/BP_Player.uasset"
 			]
 		}
 	]
