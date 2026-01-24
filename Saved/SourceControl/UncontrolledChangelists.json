@@ -17,6 +17,8 @@
 				"C:/UE5/GAM303/Content/Interactibles/Interact.uasset",
 				"C:/UE5/Gam303/Content/Player/BP_GameMode.uasset",
 				"C:/UE5/GAM303/Content/Interactibles/AnimatedInteractibles/BP_Door.uasset",
+				"C:/UE5/GAM303/Content/Enemy/Turret/BP_Turret.uasset",
+				"C:/UE5/GAM303/Content/Enemy/Turret/BP_TurretProjectile.uasset",
 				"C:/UE5/Gam303/Content/Player/BP_Player.uasset"
 			]
 		}
